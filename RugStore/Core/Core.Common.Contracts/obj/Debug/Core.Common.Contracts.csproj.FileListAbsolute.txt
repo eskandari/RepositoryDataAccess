@@ -1,0 +1,8 @@
+E:\Pluralsight\Building End-to-End Multi Client Service Oriented Applications. Angular Edition\code_for_SOA_Angular\code\m4-ex\PersianRug\Core.Common.Contracts\bin\Debug\Core.Common.Contracts.dll
+E:\Pluralsight\Building End-to-End Multi Client Service Oriented Applications. Angular Edition\code_for_SOA_Angular\code\m4-ex\PersianRug\Core.Common.Contracts\bin\Debug\Core.Common.Contracts.pdb
+E:\Pluralsight\Building End-to-End Multi Client Service Oriented Applications. Angular Edition\code_for_SOA_Angular\code\m4-ex\PersianRug\Core.Common.Contracts\obj\Debug\Core.Common.Contracts.dll
+E:\Pluralsight\Building End-to-End Multi Client Service Oriented Applications. Angular Edition\code_for_SOA_Angular\code\m4-ex\PersianRug\Core.Common.Contracts\obj\Debug\Core.Common.Contracts.pdb
+E:\RugStore\Core\Core.Common.Contracts\bin\Debug\Core.Common.Contracts.dll
+E:\RugStore\Core\Core.Common.Contracts\bin\Debug\Core.Common.Contracts.pdb
+E:\RugStore\Core\Core.Common.Contracts\obj\Debug\Core.Common.Contracts.dll
+E:\RugStore\Core\Core.Common.Contracts\obj\Debug\Core.Common.Contracts.pdb

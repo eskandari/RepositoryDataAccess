@@ -1,0 +1,17 @@
+E:\RugStore\PersianRug\PersianRug.Data.Contracts\bin\Debug\PersianRug.Data.Contracts.dll.config
+E:\RugStore\PersianRug\PersianRug.Data.Contracts\bin\Debug\PersianRug.Data.Contracts.dll
+E:\RugStore\PersianRug\PersianRug.Data.Contracts\bin\Debug\PersianRug.Data.Contracts.pdb
+E:\RugStore\PersianRug\PersianRug.Data.Contracts\bin\Debug\Core.Common.Contracts.dll
+E:\RugStore\PersianRug\PersianRug.Data.Contracts\bin\Debug\Core.Common.dll
+E:\RugStore\PersianRug\PersianRug.Data.Contracts\bin\Debug\EntityFramework.dll
+E:\RugStore\PersianRug\PersianRug.Data.Contracts\bin\Debug\EntityFramework.SqlServer.dll
+E:\RugStore\PersianRug\PersianRug.Data.Contracts\bin\Debug\PersianRug.Business.Entities.dll
+E:\RugStore\PersianRug\PersianRug.Data.Contracts\bin\Debug\FluentValidation.dll
+E:\RugStore\PersianRug\PersianRug.Data.Contracts\bin\Debug\Core.Common.Contracts.pdb
+E:\RugStore\PersianRug\PersianRug.Data.Contracts\bin\Debug\Core.Common.pdb
+E:\RugStore\PersianRug\PersianRug.Data.Contracts\bin\Debug\PersianRug.Business.Entities.pdb
+E:\RugStore\PersianRug\PersianRug.Data.Contracts\bin\Debug\EntityFramework.xml
+E:\RugStore\PersianRug\PersianRug.Data.Contracts\bin\Debug\EntityFramework.SqlServer.xml
+E:\RugStore\PersianRug\PersianRug.Data.Contracts\obj\Debug\PersianRug.Data.Contracts.csprojResolveAssemblyReference.cache
+E:\RugStore\PersianRug\PersianRug.Data.Contracts\obj\Debug\PersianRug.Data.Contracts.dll
+E:\RugStore\PersianRug\PersianRug.Data.Contracts\obj\Debug\PersianRug.Data.Contracts.pdb

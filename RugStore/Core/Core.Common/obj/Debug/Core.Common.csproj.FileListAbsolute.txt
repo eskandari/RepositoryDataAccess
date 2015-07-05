@@ -1,0 +1,41 @@
+E:\Pluralsight\Building End-to-End Multi Client Service Oriented Applications. Angular Edition\code_for_SOA_Angular\code\m4-ex\PersianRug\Core.Common\bin\Debug\Core.Common.dll.config
+E:\Pluralsight\Building End-to-End Multi Client Service Oriented Applications. Angular Edition\code_for_SOA_Angular\code\m4-ex\PersianRug\Core.Common\bin\Debug\Core.Common.dll
+E:\Pluralsight\Building End-to-End Multi Client Service Oriented Applications. Angular Edition\code_for_SOA_Angular\code\m4-ex\PersianRug\Core.Common\bin\Debug\Core.Common.pdb
+E:\Pluralsight\Building End-to-End Multi Client Service Oriented Applications. Angular Edition\code_for_SOA_Angular\code\m4-ex\PersianRug\Core.Common\bin\Debug\Core.Common.Contracts.dll
+E:\Pluralsight\Building End-to-End Multi Client Service Oriented Applications. Angular Edition\code_for_SOA_Angular\code\m4-ex\PersianRug\Core.Common\bin\Debug\EntityFramework.dll
+E:\Pluralsight\Building End-to-End Multi Client Service Oriented Applications. Angular Edition\code_for_SOA_Angular\code\m4-ex\PersianRug\Core.Common\bin\Debug\EntityFramework.SqlServer.dll
+E:\Pluralsight\Building End-to-End Multi Client Service Oriented Applications. Angular Edition\code_for_SOA_Angular\code\m4-ex\PersianRug\Core.Common\bin\Debug\FluentValidation.dll
+E:\Pluralsight\Building End-to-End Multi Client Service Oriented Applications. Angular Edition\code_for_SOA_Angular\code\m4-ex\PersianRug\Core.Common\bin\Debug\Core.Common.Contracts.pdb
+E:\Pluralsight\Building End-to-End Multi Client Service Oriented Applications. Angular Edition\code_for_SOA_Angular\code\m4-ex\PersianRug\Core.Common\bin\Debug\EntityFramework.xml
+E:\Pluralsight\Building End-to-End Multi Client Service Oriented Applications. Angular Edition\code_for_SOA_Angular\code\m4-ex\PersianRug\Core.Common\bin\Debug\EntityFramework.SqlServer.xml
+E:\Pluralsight\Building End-to-End Multi Client Service Oriented Applications. Angular Edition\code_for_SOA_Angular\code\m4-ex\PersianRug\Core.Common\bin\Debug\FluentValidation.pdb
+E:\Pluralsight\Building End-to-End Multi Client Service Oriented Applications. Angular Edition\code_for_SOA_Angular\code\m4-ex\PersianRug\Core.Common\bin\Debug\FluentValidation.xml
+E:\Pluralsight\Building End-to-End Multi Client Service Oriented Applications. Angular Edition\code_for_SOA_Angular\code\m4-ex\PersianRug\Core.Common\bin\Debug\da\FluentValidation.resources.dll
+E:\Pluralsight\Building End-to-End Multi Client Service Oriented Applications. Angular Edition\code_for_SOA_Angular\code\m4-ex\PersianRug\Core.Common\bin\Debug\de\FluentValidation.resources.dll
+E:\Pluralsight\Building End-to-End Multi Client Service Oriented Applications. Angular Edition\code_for_SOA_Angular\code\m4-ex\PersianRug\Core.Common\bin\Debug\es\FluentValidation.resources.dll
+E:\Pluralsight\Building End-to-End Multi Client Service Oriented Applications. Angular Edition\code_for_SOA_Angular\code\m4-ex\PersianRug\Core.Common\bin\Debug\fi\FluentValidation.resources.dll
+E:\Pluralsight\Building End-to-End Multi Client Service Oriented Applications. Angular Edition\code_for_SOA_Angular\code\m4-ex\PersianRug\Core.Common\bin\Debug\fr\FluentValidation.resources.dll
+E:\Pluralsight\Building End-to-End Multi Client Service Oriented Applications. Angular Edition\code_for_SOA_Angular\code\m4-ex\PersianRug\Core.Common\bin\Debug\it\FluentValidation.resources.dll
+E:\Pluralsight\Building End-to-End Multi Client Service Oriented Applications. Angular Edition\code_for_SOA_Angular\code\m4-ex\PersianRug\Core.Common\bin\Debug\ko\FluentValidation.resources.dll
+E:\Pluralsight\Building End-to-End Multi Client Service Oriented Applications. Angular Edition\code_for_SOA_Angular\code\m4-ex\PersianRug\Core.Common\bin\Debug\mk\FluentValidation.resources.dll
+E:\Pluralsight\Building End-to-End Multi Client Service Oriented Applications. Angular Edition\code_for_SOA_Angular\code\m4-ex\PersianRug\Core.Common\bin\Debug\nl\FluentValidation.resources.dll
+E:\Pluralsight\Building End-to-End Multi Client Service Oriented Applications. Angular Edition\code_for_SOA_Angular\code\m4-ex\PersianRug\Core.Common\bin\Debug\pl\FluentValidation.resources.dll
+E:\Pluralsight\Building End-to-End Multi Client Service Oriented Applications. Angular Edition\code_for_SOA_Angular\code\m4-ex\PersianRug\Core.Common\bin\Debug\pt\FluentValidation.resources.dll
+E:\Pluralsight\Building End-to-End Multi Client Service Oriented Applications. Angular Edition\code_for_SOA_Angular\code\m4-ex\PersianRug\Core.Common\bin\Debug\ru\FluentValidation.resources.dll
+E:\Pluralsight\Building End-to-End Multi Client Service Oriented Applications. Angular Edition\code_for_SOA_Angular\code\m4-ex\PersianRug\Core.Common\bin\Debug\sv\FluentValidation.resources.dll
+E:\Pluralsight\Building End-to-End Multi Client Service Oriented Applications. Angular Edition\code_for_SOA_Angular\code\m4-ex\PersianRug\Core.Common\bin\Debug\tr\FluentValidation.resources.dll
+E:\Pluralsight\Building End-to-End Multi Client Service Oriented Applications. Angular Edition\code_for_SOA_Angular\code\m4-ex\PersianRug\Core.Common\obj\Debug\Core.Common.csprojResolveAssemblyReference.cache
+E:\Pluralsight\Building End-to-End Multi Client Service Oriented Applications. Angular Edition\code_for_SOA_Angular\code\m4-ex\PersianRug\Core.Common\obj\Debug\Core.Common.dll
+E:\Pluralsight\Building End-to-End Multi Client Service Oriented Applications. Angular Edition\code_for_SOA_Angular\code\m4-ex\PersianRug\Core.Common\obj\Debug\Core.Common.pdb
+E:\RugStore\Core\Core.Common\bin\Debug\Core.Common.dll.config
+E:\RugStore\Core\Core.Common\bin\Debug\Core.Common.dll
+E:\RugStore\Core\Core.Common\bin\Debug\Core.Common.pdb
+E:\RugStore\Core\Core.Common\bin\Debug\Core.Common.Contracts.dll
+E:\RugStore\Core\Core.Common\bin\Debug\EntityFramework.dll
+E:\RugStore\Core\Core.Common\bin\Debug\EntityFramework.SqlServer.dll
+E:\RugStore\Core\Core.Common\bin\Debug\Core.Common.Contracts.pdb
+E:\RugStore\Core\Core.Common\bin\Debug\EntityFramework.xml
+E:\RugStore\Core\Core.Common\bin\Debug\EntityFramework.SqlServer.xml
+E:\RugStore\Core\Core.Common\obj\Debug\Core.Common.csprojResolveAssemblyReference.cache
+E:\RugStore\Core\Core.Common\obj\Debug\Core.Common.dll
+E:\RugStore\Core\Core.Common\obj\Debug\Core.Common.pdb

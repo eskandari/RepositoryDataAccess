@@ -1,0 +1,12 @@
+E:\RugStore\PersianRug\PersianRug.Business.Entities\bin\Debug\PersianRug.Business.Entities.dll
+E:\RugStore\PersianRug\PersianRug.Business.Entities\bin\Debug\PersianRug.Business.Entities.pdb
+E:\RugStore\PersianRug\PersianRug.Business.Entities\bin\Debug\Core.Common.Contracts.dll
+E:\RugStore\PersianRug\PersianRug.Business.Entities\bin\Debug\Core.Common.dll
+E:\RugStore\PersianRug\PersianRug.Business.Entities\bin\Debug\EntityFramework.dll
+E:\RugStore\PersianRug\PersianRug.Business.Entities\bin\Debug\FluentValidation.dll
+E:\RugStore\PersianRug\PersianRug.Business.Entities\bin\Debug\Core.Common.Contracts.pdb
+E:\RugStore\PersianRug\PersianRug.Business.Entities\bin\Debug\Core.Common.pdb
+E:\RugStore\PersianRug\PersianRug.Business.Entities\bin\Debug\EntityFramework.xml
+E:\RugStore\PersianRug\PersianRug.Business.Entities\obj\Debug\PersianRug.Business.Entities.csprojResolveAssemblyReference.cache
+E:\RugStore\PersianRug\PersianRug.Business.Entities\obj\Debug\PersianRug.Business.Entities.dll
+E:\RugStore\PersianRug\PersianRug.Business.Entities\obj\Debug\PersianRug.Business.Entities.pdb
